@@ -1,4 +1,4 @@
-module message
+module github.com/KnBrBz/message
 
 go 1.16
 
